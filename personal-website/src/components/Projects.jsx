@@ -6,8 +6,8 @@ function Projects() {
     return (
         <>
             <div className="project-heading">
-                <img className="scribble-img-left" src={scribble} alt="scribble"></img>
-                <h1 className="inter-title">Projects</h1>                    
+                 <h1 className="inter-title">Projects</h1>                    
+                <img className="scribble-img" src={scribble} alt="scribble"></img>
             </div>
             <div className="project-grid">
                 <div>

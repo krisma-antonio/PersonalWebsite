@@ -5,7 +5,6 @@ import Projects from "./components/Projects"
 function App() {
 
   return (
-   
      <>
         <header>
             <ul className="header-container">
@@ -26,7 +25,6 @@ function App() {
         <div id="projects" className="project-body">
             <Projects/>
         </div>
-    
     </>
   )
 }
